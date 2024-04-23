@@ -54,8 +54,9 @@ The test scenarios are created in the feature with Gherkin language, they are co
    ┣ 📂target
    ┣ 📜.gitignore
    ┣ 📜pom.xml
-   ┣ 📜README.md
    ┗ 📜serenity.properties
+   ┣ 📜README.md
+
  
 ```
 
